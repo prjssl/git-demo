@@ -96,5 +96,5 @@ hello ssl hello git
 hello ssl hello git
 hello ssl hello git
 hello ssl hello git
-hello ssl hello git
+hello ssl hello git master test
 hello ssl hello git hot-fix test
